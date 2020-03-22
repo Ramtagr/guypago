@@ -50,7 +50,6 @@ function characterFill() {
   }
 
 }
-var atinim = "Atinim";
 //End
 
 
