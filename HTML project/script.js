@@ -61,4 +61,3 @@ function characterFill() {
 
 
 //Math expirements
-f(x) =
